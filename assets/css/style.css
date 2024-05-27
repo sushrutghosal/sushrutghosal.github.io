@@ -52,7 +52,7 @@
   --inner-shadow: 1px 4px 2px -3px rgba(0, 0, 0, 0.7) inset, -1px -3px 3px -2px rgba(255, 255, 255, 0.2) inset;
   --shadow-white-3: 5px 5px 15px #D1D9E6, -5px -5px 15px #ffffff;
   --gradient-box-w: linear-gradient(145deg, #e2e8ec, #ffffff);
-  --gradient-red-hover: linear-gradient(145deg, #ff014f, #d11414);
+  --gradient-red-hover: linear-gradient(145deg, #13a4ec, #83cdf2);
   --color-heading: #ffffff;
   --color-heading-wv: #1e2125;
   --color-body: #878e99;
@@ -9052,7 +9052,7 @@ figcaption {
     display: block !important; } }
 
 .section-title span.subtitle {
-  color: #ff014f;
+  color: #13a4ec;
   text-transform: uppercase;
   letter-spacing: 5px;
   font-size: 14px;
@@ -9176,7 +9176,7 @@ figcaption {
             font-size: 32px;
             line-height: 40px; } }
         .slide .content .inner .title span {
-          color: #ff014f; }
+          color: #13a4ec; }
         .slide .content .inner .title .header-caption span {
           color: var(--color-white);
           font-weight: 600; }
@@ -9341,7 +9341,7 @@ figcaption {
       height: 100%;
       bottom: 0;
       transform: translateX(-50%);
-      background: linear-gradient(to right, #6a67ce, #fc636b) !important; }
+      background: linear-gradient(to right, #13a4ec, #83cdf2) !important; }
     .slide .thumbnail.box-gradient .inner {
       padding: 15px; }
       .slide .thumbnail.box-gradient .inner img {
@@ -9640,7 +9640,7 @@ figcaption {
       .banner-details-wrapper-sticky .banner-title-area .title .span {
         font-size: 36px; } }
   .banner-details-wrapper-sticky .banner-title-area .title span {
-    color: #ff014f; }
+    color: #13a4ec; }
     @media only screen and (max-width: 575px) {
       .banner-details-wrapper-sticky .banner-title-area .title span {
         font-size: 32px; } }
@@ -10485,7 +10485,7 @@ div#featured-project-carousel {
         .rn-nav-list .nav-item .nav-link {
           font-size: 18px; } }
       .rn-nav-list .nav-item .nav-link:hover, .rn-nav-list .nav-item .nav-link.active {
-        color: #ff014f;
+        color: #13a4ec;
         background-color: transparent;
         border-color: transparent;
         border: 0 none;
