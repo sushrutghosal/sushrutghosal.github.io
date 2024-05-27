@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Sushrut Ghosal</title>
+    <link>https://sushrutghosal.github.io/project/</link>
+      <atom:link href="https://sushrutghosal.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 25 Dec 2023 12:52:48 -0800</lastBuildDate>
+    <image>
+      <url>https://sushrutghosal.github.io/media/Sushrut_Ghosal_org.png</url>
+      <title>Projects</title>
+      <link>https://sushrutghosal.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>SightSync: Shazam for Video</title>
+      <link>https://sushrutghosal.github.io/project/sightsync/</link>
+      <pubDate>Mon, 25 Dec 2023 12:52:48 -0800</pubDate>
+      <guid>https://sushrutghosal.github.io/project/sightsync/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forward-Forward: Is it time to bid adieu to Backprop?</title>
+      <link>https://sushrutghosal.github.io/project/ff/</link>
+      <pubDate>Sat, 22 Apr 2023 17:34:55 -0700</pubDate>
+      <guid>https://sushrutghosal.github.io/project/ff/</guid>
+      <description></description>
+    </item>
+    
+    <!-- <item>
+      <title>Identifying Deceptive Content: A Study on Clickbait and Fake News Detection</title>
+      <link>https://sushrutghosal.github.io/project/fakenews/</link>
+      <pubDate>Fri, 21 Apr 2023 17:58:36 -0700</pubDate>
+      <guid>https://sushrutghosal.github.io/project/fakenews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Paper Presentation] - Tackling Fake News Detection by Continually Improving Social Context Representations using Graph Neural Networks</title>
+      <link>https://sushrutghosal.github.io/project/gnn4fknws/</link>
+      <pubDate>Wed, 19 Apr 2023 23:47:12 -0700</pubDate>
+      <guid>https://sushrutghosal.github.io/project/gnn4fknws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Paper Role Playing] Neural Word Embeddings as Implicit Matrix Factorization</title>
+      <link>https://sushrutghosal.github.io/project/nnasmf/</link>
+      <pubDate>Fri, 31 Mar 2023 23:57:32 -0700</pubDate>
+      <guid>https://sushrutghosal.github.io/project/nnasmf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Store Sales - Time Series Forecasting</title>
+      <link>https://sushrutghosal.github.io/project/storesales/</link>
+      <pubDate>Thu, 01 Dec 2022 11:21:33 -0700</pubDate>
+      <guid>https://sushrutghosal.github.io/project/storesales/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trojan Detection: Meta Neural Networks for Trojan Detection (MNTD)</title>
+      <link>https://sushrutghosal.github.io/project/mntd/</link>
+      <pubDate>Wed, 31 Aug 2022 14:18:13 -0700</pubDate>
+      <guid>https://sushrutghosal.github.io/project/mntd/</guid>
+      <description></description>
+    </item> -->
+    
+  </channel>
+</rss>

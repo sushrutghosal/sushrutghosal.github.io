@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Sushrut Ghosal</title>
+    <link>https://sushrutghosal.github.io/publication/</link>
+      <atom:link href="https://sushrutghosal.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 30 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sushrutghosal.github.io/media/Sushrut_Ghosal_org.png</url>
+      <title>Publications</title>
+      <link>https://sushrutghosal.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Hey QIRI, Revolutionizing Efficiency in Design Enablement</title>
+      <link>https://sushrutghosal.github.io/publication/ijrte/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://sushrutghosal.github.io/publication/ijrte/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
