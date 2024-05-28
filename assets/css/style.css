@@ -10630,7 +10630,10 @@ div#featured-project-carousel {
           background: var(--background-color-1);
           box-shadow: var(--shadow-1);
           transition: var(--transition);
-          font-weight: 500; }
+          font-weight: 500;
+          white-space: nowrap; /* Prevent text wrapping */
+          width: auto; /* Allow the width to adjust to content */
+          min-width: 80px; /* Set a minimum width if necessary */ }
     .personal-experience-inner .experience-list .resume-single-list .inner p {
       font-size: 18px;
       line-height: 28px;
